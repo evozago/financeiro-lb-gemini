@@ -1,0 +1,7 @@
+{
+  "name": "FinControl AI",
+  "description": "An intelligent financial management dashboard powered by Gemini. It provides analytics, sales tracking, and AI-driven insights to optimize financial operations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
